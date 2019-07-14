@@ -10,6 +10,13 @@ Appiness Task
 6.External depency for graph - I am using ng2-google charts for graph.
 
 screenshots
-
+![](images/ExpensesfirstPage.png)
+![](images/ExpensesHomePage.png)
+![](images/pieChartupto5categories.png)
+![](images/whenCategoryismorethan5.png)
+![](images/editinHomePage.png)
+![](images/SettingPage.png)
 ![](images/BudgetUpdate.png)
+![](images/deleteCategory.png)
+
 
