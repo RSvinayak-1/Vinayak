@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # vinayakTask
 Appiness Task
 
@@ -9,7 +9,6 @@ Appiness Task
 5.once mongoDB server is running then Go to the project folder path in new command prompt and run "node server".
 6.External depency for graph - I am using ng2-google charts for graph.
 
-=======
 # Expense
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.7.
